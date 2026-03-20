@@ -33,5 +33,3 @@ Clean, structured dataset ready for analysis
 2. Run the script:
    python cleaner.py
 
-## 📸 (Optional but VERY powerful)
-Add before/after screenshots here

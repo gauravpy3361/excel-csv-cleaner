@@ -100,8 +100,8 @@ Messy data with:
 
 Clean, structured dataset ready for use
 
-![Before](before.png)
-![After](after.png)
+![Before](<img width="1365" height="767" alt="before" src="https://github.com/user-attachments/assets/10f73e47-9dff-48ee-aa4e-8df0820719f5" />)
+![After](<img width="1365" height="767" alt="after" src="https://github.com/user-attachments/assets/b705fc05-20b8-4cc5-b4e8-af080fb3a0b9" />)
 
 ---
 

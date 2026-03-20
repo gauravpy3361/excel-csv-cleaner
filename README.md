@@ -1,6 +1,8 @@
 # 📊 Excel/CSV Automation Toolkit (Python)
 
-A Python-based tool to automate common Excel and CSV data tasks like cleaning, formatting, merging, and removing duplicates.
+💼 Built to automate real-world Excel/CSV tasks and reduce hours of manual work into seconds.
+
+A Python-based automation tool for handling real-world Excel and CSV data tasks like cleaning, formatting, merging, and removing duplicates.
 
 ---
 
@@ -56,6 +58,14 @@ This tool:
 
 ---
 
+## ⚙️ Installation
+
+1. Install Python (if not installed)
+2. Install required library:
+   pip install pandas
+
+---
+
 ## ▶️ How to Use (CLI)
 
 ### Format file
@@ -90,9 +100,8 @@ Messy data with:
 
 Clean, structured dataset ready for use
 
-<img width="1365" height="767" alt="before" src="https://github.com/user-attachments/assets/cc3a9886-ed1d-46ff-b151-f7d27d42472f" />
-
-<img width="1365" height="767" alt="after" src="https://github.com/user-attachments/assets/f0f6129e-43a3-4707-9679-626dfe5b2708" />
+![Before](before.png)
+![After](after.png)
 
 ---
 

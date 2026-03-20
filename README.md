@@ -1,11 +1,37 @@
-# Excel & CSV Automation Scripts
+# Excel/CSV Data Cleaning Automation (Python)
 
-Custom Python scripts to automate your spreadsheet tasks.
+## 📌 What this project does
+This Python script automates common Excel/CSV data cleaning tasks such as:
+- Removing duplicates
+- Handling missing values
+- Formatting inconsistent data
+- Merging multiple files
 
-## Scripts included:
-- remove_duplicates.py — Remove duplicate rows from any CSV/Excel
-- merge_csv_files.py — Merge multiple CSV files into one
-- auto_format_excel.py — Auto clean and format messy data
+## 🚀 Why this is useful
+Manually cleaning Excel files is slow and repetitive.
 
-## Hire me on Fiverr:
-https://www.fiverr.com/s/0bwv1Ka
+This tool:
+- Saves time
+- Reduces human error
+- Processes large datasets quickly
+
+## 🛠️ Tech Used
+- Python
+- Pandas
+
+## 📂 Example Use Case
+Input:
+Messy CSV files with duplicates and inconsistent formatting
+
+Output:
+Clean, structured dataset ready for analysis
+
+## ▶️ How to run
+1. Install dependencies:
+   pip install pandas
+
+2. Run the script:
+   python cleaner.py
+
+## 📸 (Optional but VERY powerful)
+Add before/after screenshots here
